@@ -12,7 +12,7 @@
   </a>
 
   
-  <a href="https://portafolioweb.mrubio7466.workers.dev/cv/">
+  <a href="https://portafolioweb.mrubio7466.workers.dev/">
     <img src="https://img.shields.io/badge/Portafolio-233D4D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/>
   </a>
  
