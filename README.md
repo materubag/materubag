@@ -87,6 +87,20 @@ Me interesa construir aplicaciones funcionales, resolver problemas mediante soft
 ---
 
 ## Proyectos destacados
+### Reconocimiento facial mediante CNN
+
+`Inteligencia artificial` · `Visión por computador` · `2026`
+
+Sistema experimental de reconocimiento facial orientado al control de acceso de personas autorizadas.
+
+Implementa un pipeline de detección de rostros mediante YuNet, alineación, preprocesamiento de imágenes y clasificación utilizando redes neuronales convolucionales.
+
+**Stack:** Python, PyTorch, OpenCV, CNN y YuNet.
+
+*Repositorio pendiente de publicación.*
+
+
+[Repositorio del proyecto](https://github.com/materubag/FaceAccessCNN)
 
 ### CM Stock — Sistema de gestión de muestras
 
@@ -132,21 +146,8 @@ El flujo procesa eventos mediante webhooks, valida las etiquetas de las tarjetas
 
 [Repositorio del proyecto](https://github.com/materubag/8n8n_das)
 
-### Reconocimiento facial mediante CNN
 
-`Inteligencia artificial` · `Visión por computador` · `2026`
 
-Sistema experimental de reconocimiento facial orientado al control de acceso de personas autorizadas.
-
-Implementa un pipeline de detección de rostros mediante YuNet, alineación, preprocesamiento de imágenes y clasificación utilizando redes neuronales convolucionales.
-
-**Stack:** Python, PyTorch, OpenCV, CNN y YuNet.
-
-*Repositorio pendiente de publicación.*
-
-<!--
-[Repositorio del proyecto](https://github.com/materubag/NOMBRE-REPOSITORIO)
--->
 
 ---
 
