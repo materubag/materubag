@@ -11,11 +11,11 @@
     <img src="https://img.shields.io/badge/Email-347D80?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <!-- Activar cuando esté publicado el portafolio.
-  <a href="https://TU-PORTAFOLIO.com">
+  
+  <a href="https://portafolioweb.mrubio7466.workers.dev/cv/">
     <img src="https://img.shields.io/badge/Portafolio-233D4D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/>
   </a>
-  -->
+ 
 </div>
 
 ## Sobre mí
