@@ -1,5 +1,7 @@
 ## Hi there 👋
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=materubag&theme=dark)](https://git.io/streak-stats)
 
+![materubag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=materubag&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 <!--
 **materubag/materubag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
